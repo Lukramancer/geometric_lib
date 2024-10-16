@@ -213,12 +213,13 @@ perimeter(r=2.3)
 ```
 
 # Repository history:
-- Made detailed docs in docs/README.md 6b8b1b20ae534bc8fe9b75d7316adaa186ed1521
-- Added formulas for triangle 4ade6d5c83219c724a47358ebc810def2ca1acf7
-- Made in file docs more precise d41c75936afbd6911fd3c9e06689557f47a1e7a8
-- Made docs in file circle.py 8f1d366db99ebc67212ebd4da6c9ca5caac55835
-- Made docs in file trinagle.py 5fc54e72ca806790f374d34ad3c4322dd5d89a98 
-- Made docs in file square.py 879cbfac0a8d2f1b468fb65e6baa3f231a2e2dea
-- Made docs in file rectangle.py f89de74eebf9f6692df93708d466f35be5cea88d
-- Fixed error in rectanlge 26f8302544bde0424475feee11f63d3cf2a7e196
-- Added file rectangle.py 611e3cbc8dea921f3cc25771178f985bfff4e04d
+- Added repository history comiits into docs [119003bcc6fe5a9e14079b5050c1d7d7a6fe3434](https://github.com/Lukramancer/geometric_lib/commit/119003bcc6fe5a9e14079b5050c1d7d7a6fe3434)
+- Made detailed docs in docs/README.md [6b8b1b20ae534bc8fe9b75d7316adaa186ed1521](https://github.com/Lukramancer/geometric_lib/commit/6b8b1b20ae534bc8fe9b75d7316adaa186ed1521)
+- Added formulas for triangle [4ade6d5c83219c724a47358ebc810def2ca1acf7](https://github.com/Lukramancer/geometric_lib/commit/4ade6d5c83219c724a47358ebc810def2ca1acf7)
+- Made in file docs more precise [d41c75936afbd6911fd3c9e06689557f47a1e7a8](https://github.com/Lukramancer/geometric_lib/commit/d41c75936afbd6911fd3c9e06689557f47a1e7a8)
+- Made docs in file circle.py [8f1d366db99ebc67212ebd4da6c9ca5caac55835](https://github.com/Lukramancer/geometric_lib/commit/8f1d366db99ebc67212ebd4da6c9ca5caac55835)
+- Made docs in file trinagle.py [5fc54e72ca806790f374d34ad3c4322dd5d89a98](https://github.com/Lukramancer/geometric_lib/commit/5fc54e72ca806790f374d34ad3c4322dd5d89a98) 
+- Made docs in file square.py [879cbfac0a8d2f1b468fb65e6baa3f231a2e2dea](https://github.com/Lukramancer/geometric_lib/commit/879cbfac0a8d2f1b468fb65e6baa3f231a2e2dea)
+- Made docs in file rectangle.py [f89de74eebf9f6692df93708d466f35be5cea88d](https://github.com/Lukramancer/geometric_lib/commit/f89de74eebf9f6692df93708d466f35be5cea88d)
+- Fixed error in rectanlge [26f8302544bde0424475feee11f63d3cf2a7e196](https://github.com/Lukramancer/geometric_lib/commit/26f8302544bde0424475feee11f63d3cf2a7e196)
+- Added file rectangle.py [611e3cbc8dea921f3cc25771178f985bfff4e04d](https://github.com/Lukramancer/geometric_lib/commit/611e3cbc8dea921f3cc25771178f985bfff4e04d)
